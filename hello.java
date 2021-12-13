@@ -1,5 +1,5 @@
 
-
+//Prining Exercise. Print the following sentences!
 
 class Main {
     public static void main(String[]args){
