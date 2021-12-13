@@ -1,4 +1,6 @@
-import java.util.Scanner;
+//Exercise: Area Calculator
+
+import java.util.Scanner; // user input
 
 class Main {
   public static void main(String[] args) {
