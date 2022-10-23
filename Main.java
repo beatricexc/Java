@@ -1,4 +1,4 @@
-//Exercise: Area Calculator
+//Exercise: Area Calculator Week 4
 
 import java.util.Scanner; // user input
 
