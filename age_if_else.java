@@ -13,7 +13,7 @@ class InputName {
 			System.out.println ( "Child");
 		} else if ( age >= 13 && age <= 19) {
 			System.out.println("Teenager");
-		} else if (age >= 20) {
+		} else if (age >= 20 && age <= 120) {
 			System.out.println("Adult");
 		} else {
 			System.out.println(" You have entered an invalid number");
